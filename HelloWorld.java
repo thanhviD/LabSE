@@ -8,5 +8,8 @@ class HelloWorld {
 	private void printNewLine(String st){
 		System.out.println(st);
 	}
+	private void addition(int a, int b) {
+		return a+b;
+	}
 
 }
